@@ -4,4 +4,4 @@
 
 Предварительно данные преобразованы: определены ключевые характеритики, влияющие на исход матча, построена регрессионная модель по ключевым выявленным характеристикам (не рассматривается в данном проекте) 
 
-<img src="[Dashboard_view.png](https://github.com/SteppyN/Footbool_tableau_project/blob/main/Dashboard_view.png)">
+<img src="https://github.com/SteppyN/Footbool_tableau_project/blob/main/Dashboard_view.png"> 
